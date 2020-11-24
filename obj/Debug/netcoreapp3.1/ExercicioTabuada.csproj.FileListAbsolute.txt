@@ -1,0 +1,13 @@
+C:\SENAI\repositorio\ExercicioSENAI\ExercicioTabuada\bin\Debug\netcoreapp3.1\ExercicioTabuada.exe
+C:\SENAI\repositorio\ExercicioSENAI\ExercicioTabuada\bin\Debug\netcoreapp3.1\ExercicioTabuada.deps.json
+C:\SENAI\repositorio\ExercicioSENAI\ExercicioTabuada\bin\Debug\netcoreapp3.1\ExercicioTabuada.runtimeconfig.json
+C:\SENAI\repositorio\ExercicioSENAI\ExercicioTabuada\bin\Debug\netcoreapp3.1\ExercicioTabuada.runtimeconfig.dev.json
+C:\SENAI\repositorio\ExercicioSENAI\ExercicioTabuada\bin\Debug\netcoreapp3.1\ExercicioTabuada.dll
+C:\SENAI\repositorio\ExercicioSENAI\ExercicioTabuada\bin\Debug\netcoreapp3.1\ExercicioTabuada.pdb
+C:\SENAI\repositorio\ExercicioSENAI\ExercicioTabuada\obj\Debug\netcoreapp3.1\ExercicioTabuada.csprojAssemblyReference.cache
+C:\SENAI\repositorio\ExercicioSENAI\ExercicioTabuada\obj\Debug\netcoreapp3.1\ExercicioTabuada.AssemblyInfoInputs.cache
+C:\SENAI\repositorio\ExercicioSENAI\ExercicioTabuada\obj\Debug\netcoreapp3.1\ExercicioTabuada.AssemblyInfo.cs
+C:\SENAI\repositorio\ExercicioSENAI\ExercicioTabuada\obj\Debug\netcoreapp3.1\ExercicioTabuada.csproj.CoreCompileInputs.cache
+C:\SENAI\repositorio\ExercicioSENAI\ExercicioTabuada\obj\Debug\netcoreapp3.1\ExercicioTabuada.dll
+C:\SENAI\repositorio\ExercicioSENAI\ExercicioTabuada\obj\Debug\netcoreapp3.1\ExercicioTabuada.pdb
+C:\SENAI\repositorio\ExercicioSENAI\ExercicioTabuada\obj\Debug\netcoreapp3.1\ExercicioTabuada.genruntimeconfig.cache
